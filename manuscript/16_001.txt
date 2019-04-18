@@ -1,8 +1,8 @@
 # Случайное слово 1
 
-*einfach* - просто или простой
+**einfach** - просто или простой
 
-*Примеры:*
+**Примеры:**
 Eine einfache Aufgabe - простое задание
 
 Es war gar nicht so einfach, dich zu erreichen - не так-то просто было до тебя дозвониться
