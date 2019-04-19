@@ -1,0 +1,12 @@
+[#16_014]
+= #14
+
+*der Raum / die Räume* - комната, помещение
+*der Raum / die Räume* - пространство
+
+*Примеры:*
+Ein großer Raum.
+Большое помещение.
+
+Der dreidimensionale Raum.
+Трехмерное пространство.

@@ -1,0 +1,34 @@
+:hardbreaks:
+= Random German
+Mur Votema
+:creator: {author}
+:encoding: utf-8
+:scripts: multilingual
+:imagesdir: images
+:front-cover-image: image:random-german.jpg[Front Cover]
+
+ifndef::ebook-format[]
+:leveloffset: 1
+endif::[]
+
+include::16_001.adoc[]
+include::16_002.adoc[]
+include::16_003.adoc[]
+include::16_004.adoc[]
+include::16_005.adoc[]
+include::16_006.adoc[]
+include::16_007.adoc[]
+include::16_008.adoc[]
+include::16_009.adoc[]
+include::16_010.adoc[]
+include::16_011.adoc[]
+include::16_012.adoc[]
+include::16_013.adoc[]
+include::16_014.adoc[]
+include::16_015.adoc[]
+include::16_016.adoc[]
+include::16_017.adoc[]
+include::16_018.adoc[]
+include::16_019.adoc[]
+include::2019/19_006.adoc[]
+include::glossary.adoc[]

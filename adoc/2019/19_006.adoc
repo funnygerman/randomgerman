@@ -1,0 +1,10 @@
+[#19_006]
+= xyz
+
+**die Heimat / die Heimaten** - родина
+
+**Пример:**
+Wir vermieten *_Heimat_*.
+Мы сдаём в аренду родину.
+
+<<<
