@@ -1,8 +1,11 @@
 [#16_021]
 = #21
 
-*unberechtigt* - незаконно, неправомерно
+*sondern* - а, но
 
-*Пример:*
-Unberechtigt geparkte Fahrzeuge werden kostenpflichtig abgeschleppt.  
-Автомобили, припаркованные без разрешения, будут эвакуированы за плату. 
+*Примеры:*
+Nicht nur ein Laden, sondern auch ein Treffpunkt.
+Не только магазин, но и место встречи.
+
+Das ist nicht grün, sondern blau.
+Это не зелёный, а голубой цветю.

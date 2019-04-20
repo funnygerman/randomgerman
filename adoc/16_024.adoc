@@ -1,8 +1,12 @@
 [#16_024]
 = #24
 
-*treu* - верный, преданный
+*ganz* - целый, весь
+*ganz* - полностью, целиком
 
-*Пример:*
-Der Blogger weiß selbst am besten, wie er sich und den Interessen seiner Follower treu bleibt. 
-Блоггер знает сам лучше всего, как оставаться верному самому себе и интересам своих подписчиков. 
+*Примеры:*
+Den ganzen Tag arbeiten.
+Работать целый день.
+
+Ganz viel Geld.
+Очень много денег.

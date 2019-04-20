@@ -1,8 +1,12 @@
 [#16_025]
 = #25
 
-*das Abenteuer / die Abenteuer* - приключение
+*vertreten / vertrat / verteten* - временно заменять, замещать
+*vertreten / vertrat / verteten* - представлять (какую-либо организацию)
 
-*Пример:*
-Groß werden ist das größte Abenteuer. 
-Стать большим (взрослеть) - это самое большое приключение. 
+*Примеры:*
+Er vertritt Herrn Müller.
+Он замещает господина Мюллера.
+
+In 15 Ländern vertreten sein.
+Быть представленным в 15 странах.

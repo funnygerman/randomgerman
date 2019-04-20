@@ -1,8 +1,11 @@
 [#16_023]
 = #23
 
-*die Sprechzeiten* - часы приёма (посетителей, пациентов, клиентов) 
+*stellen / stellte / gestellt* - ставить, поставить
 
-*Пример:*
-Wir bitten die Sprechzeiten einzuhalten!
-Мы просим Вас соблюдать часы приёма! 
+*Примеры:*
+Die Teller auf den Tisch stellen.
+Ставить тарелки на стол.
+
+Die Blumen in die Vase stellen.
+Поставить цветы в вазу.

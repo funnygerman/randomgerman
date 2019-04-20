@@ -1,8 +1,12 @@
 [#16_020]
 = #20
 
-*überlassen / überließ / überlassen* - предоставить, оставить, давать. 
+*das Gericht / die Gerichte* - блюдо
+*das Gericht / die Gerichte* - суд
 
-*Пример:*
-Auch beim Versand unserer Produkte überlassen wir nichts dem Zufall. 
-Даже то, как мы отправляем наши продукты - не случайность (мы не предоставляем воле случая).
+*Примеры:*
+Ein Gericht aus Fleisch und Gemüse.
+Блюдо из мяса и овощей.
+
+Jemanden bei Gericht verklagen.
+Подать на кого-л в суд.

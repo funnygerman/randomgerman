@@ -1,0 +1,8 @@
+[#16_038]
+= #38
+
+*die Fahrkarte / die Fahrkarten* - билет (на проезд) 
+
+*Пример:*
+Ihre Fahrkarte wurde auf Thermopapier gedruckt.
+Ваш билет был напечатан на термобумаге.

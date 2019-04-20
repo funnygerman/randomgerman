@@ -1,0 +1,8 @@
+[#18_028]
+= #28
+
+*der Kunde / die Kunden* - клиент, заказчик, покупатель 
+
+*Пример:*
+Dennoch brauchen Kunden viel Geduld, wenn sie ein Martin-Horn kaufen wollen: aktuell beträgt die Lieferzeit bis zu 27 Wochen. 
+И всё же покупателям нужно набраться терпения, если они хотят купить горн: в настоящее время сроки поставок составляют до 27 недель.
