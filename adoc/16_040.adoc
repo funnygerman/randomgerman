@@ -1,0 +1,8 @@
+[#16_040]
+= #40
+
+*zahlen / zahlte / gezahlt* - платить
+
+*Пример:*
+Zahlen Sie in Bar. Zahlen Sie ab 5 Euro mit Kreditkarte.
+Платите наличными. Начиная с 5 евро возможна оплата кредитной картой. 
