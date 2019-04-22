@@ -52,10 +52,10 @@ M;
 M;="== M"
 M;="****"
 MZZZ;="****"
-N;="//" 
-N;="//== N"
-N;="//****"
-NZZZ;="//****"
+N;
+N;="== N"
+N;="****"
+NZZZ;="****"
 O;="//" 
 O;="//== O"
 O;="//****"
@@ -235,3 +235,4 @@ entsetzlich;*entsetzlich* - ужасный, страшный <<19_003#19_003, 10
 einsteigen;*einsteigen / stieg ein / eingestiegen* - садиться, входить, влезать <<19_004#19_004, 108>>
 dumm;*dumm* - глупый <<19_005#19_005, 109>>
 Heimat;*die Heimat / die Heimaten* - родина <<19_006#19_006, 110>>
+Nudel;*die Nudel / die Nudeln* - лапша <<19_007#19_007, 111>>

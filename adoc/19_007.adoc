@@ -1,0 +1,9 @@
+[#19_007]
+= #111
+
+*die Nudel / die Nudeln* - лапша
+
+*Пример:*
+Heute gibt's Nudeln!
+
+Сегодня будет лапша.
