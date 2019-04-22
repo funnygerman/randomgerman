@@ -1,0 +1,11 @@
+[#18_036]
+= #104
+
+*die Fahrtreppe / die Fahrtreppen* - эскалатор
+
+*Пример:*
+Fahrtreppe mit Laufrichtungswechsel
+Zum Umschalten der Laufrichtung Trittfläche erst nach Stillstand der Fahrtreppe betretten.
+
+Эскалатор со сменой направления движения
+Для смены направления движения дождитесь прекращения движения и наступите на поверхность лестницы.

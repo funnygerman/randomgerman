@@ -1,0 +1,9 @@
+[#18_038]
+= #104
+
+*das Land / die Länder* - страна
+
+*Пример:*
+Die Republik Moldau zählt zu den ärmsten Ländern Europas. Mehr als ein Drittel der Bewohner hat das Land verlassen, um Geld im Ausland zu verdienen.
+
+Республика Молдова является одной из беднейших стран Европы. Более трети жителей страны уехали на заработки заграницу.
