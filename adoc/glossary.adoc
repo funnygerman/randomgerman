@@ -1,3 +1,4 @@
+:hardbreaks:
 [#glossary]
 = Словарь
 
