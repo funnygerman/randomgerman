@@ -218,6 +218,7 @@
 == Z
 ****
 *zahlen / zahlte / gezahlt* - платить <<16_040#16_040, 40>>
+*die Zeitung / die Zeitungen* - газета <<19_008#19_008, 112>>
 *zeitweise* - время от времени, порой <<16_035#16_035, 35>>
 *das Zuhause* - (родной) дом <<16_065#16_065, 65>>
 *der Zusammenhang / die Zusammenhänge* - связь <<16_018#16_018, 18>>
