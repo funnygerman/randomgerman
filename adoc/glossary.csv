@@ -56,10 +56,10 @@ N;
 N;="== N"
 N;="****"
 NZZZ;="****"
-O;="//" 
-O;="//== O"
-O;="//****"
-OZZZ;="//****"
+O; 
+O;="== O"
+O;="****"
+OZZZ;="****"
 P; 
 P;="== P"
 P;="****"
@@ -243,3 +243,12 @@ lieben;*lieben [либэн] / liebte / geliebt* - любить <<19_011#19_011, 
 Wildnis;*die Wildnis [вильднис] / die Wildnisse* - дебри, заросли, дикая местность <<19_012#19_012, 116>>
 Berg;*der Berg [берг] / die Berge* - гора <<19_013#19_013, 117>>
 gestatten;*gestatten [гештатэн] / gestattete / gestattet* - разрешать, допускать <<19_014#19_014, 118>>
+zaubern;*zaubern [цауберн] / zauberte / gezaubert* - творить волшебство <<19_015#19_015, 119>>
+Ort1;*der Ort [орт] / die Orte* - место <<19_016#19_016, 120>>
+Ort2;*vor Ort [фор орт]* - на месте <<19_016#19_016, 120>>
+Freund;*der Freund [фройнд] / die Freunde* - друг <<19_017#19_017, 121>>
+existieren;*existieren [экзистирэн] / existierte / existiert* - существовать <<19_018#19_018, 122>>
+verwenden;*verwenden [фервендэн] / verwendete / verwendet* - использовать, применять <<19_019#19_019, 123>>
+Anfang1;*der Anfang [анфанг] / die Anfänge* - начало <<19_020#19_020, 124>>
+Anfang2;*von Anfang an* - с самого начала <<19_020#19_020, 124>>
+schicken;*schicken [шикэн] / schickte/ geschickt* - посылать, отправлять, присылать <<19_021#19_021, 125>>
