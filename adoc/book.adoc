@@ -1,3 +1,4 @@
+:hardbreaks:
 = Random German
 Mur Votema
 :creator: {author}

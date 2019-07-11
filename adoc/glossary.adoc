@@ -1,6 +1,6 @@
-:hardbreaks:
 [#glossary]
 = Словарь
+:hardbreaks:
 
 == A
 ****

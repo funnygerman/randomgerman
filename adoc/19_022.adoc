@@ -1,6 +1,6 @@
-:hardbreaks:
 [#19_022]
 = #126
+:hardbreaks:
 
 *der Tag [таг] / die Tage* - день
 
