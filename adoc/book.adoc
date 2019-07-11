@@ -1,4 +1,3 @@
-:hardbreaks:
 = Random German
 Mur Votema
 :creator: {author}
@@ -138,4 +137,6 @@ include::19_018.adoc[]
 include::19_019.adoc[]
 include::19_020.adoc[]
 include::19_021.adoc[]
+include::19_022.adoc[]
+include::19_023.adoc[]
 include::glossary.adoc[]

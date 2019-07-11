@@ -1,0 +1,14 @@
+:hardbreaks:
+[#19_023]
+= #127
+
+*der Parkvorgang [паркфорганг] / die Parkvorgänge* - процесс парковки
+
+*Пример:*
+HandyParken App öffnen.
+Parkvorgang in der App starten.
+Bargeldlos bezahlen ohne Extrakosten.
+
+Откройте приложение HandyParken.
+Начните процесс парковки в приложении.
+Платите безналичными без дополнительных расходов.
