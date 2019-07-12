@@ -1,5 +1,6 @@
 [#19_009]
 = #113
+:hardbreaks:
 
 *übereinstimmen [у:бэрайнштимэн] / stimmte überein / übereingestimmt* - совпадать, соответствовать
 

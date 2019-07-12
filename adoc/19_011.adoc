@@ -1,5 +1,6 @@
 [#19_011]
 = #115
+:hardbreaks:
 
 *lieben [либэн] / liebte / geliebt* - любить
 

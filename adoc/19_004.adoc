@@ -1,5 +1,6 @@
 [#19_004]
 = #108
+:hardbreaks:
 
 *einsteigen / stieg ein / eingestiegen* - садиться, входить, влезать
 

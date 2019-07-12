@@ -1,5 +1,6 @@
 [#19_021]
 = #125
+:hardbreaks:
 
 *schicken [шикэн] / schickte/ geschickt* - посылать, отправлять, присылать
 

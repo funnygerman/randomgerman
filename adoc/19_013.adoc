@@ -1,5 +1,6 @@
 [#19_013]
 = #117
+:hardbreaks:
 
 *der Berg [берг] / die Berge* - гора
 

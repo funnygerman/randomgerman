@@ -1,5 +1,6 @@
 [#19_020]
 = #124
+:hardbreaks:
 
 *der Anfang [анфанг] / die Anfänge* - начало
 *von Anfang an* - с самого начала

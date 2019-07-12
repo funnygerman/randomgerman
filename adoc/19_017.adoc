@@ -1,5 +1,6 @@
 [#19_017]
 = #121
+:hardbreaks:
 
 *der Freund [фройнд] / die Freunde* - друг
 

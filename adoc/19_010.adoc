@@ -1,5 +1,6 @@
 [#19_010]
 = #114
+:hardbreaks:
 
 *der Mord [морд] / die Morde* - убийство
 

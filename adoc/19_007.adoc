@@ -1,5 +1,6 @@
 [#19_007]
 = #111
+:hardbreaks:
 
 *die Nudel / die Nudeln* - лапша
 

@@ -1,5 +1,6 @@
 [#19_018]
 = #122
+:hardbreaks:
 
 *existieren [экзистирэн] / existierte / existiert* - существовать
 

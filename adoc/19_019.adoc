@@ -1,5 +1,6 @@
 [#19_019]
 = #123
+:hardbreaks:
 
 *verwenden [фервендэн] / verwendete / verwendet* - использовать, применять
 

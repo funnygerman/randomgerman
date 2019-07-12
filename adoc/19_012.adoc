@@ -1,5 +1,6 @@
 [#19_012]
 = #116
+:hardbreaks:
 
 *die Wildnis [вильднис] / die Wildnisse* - дебри, заросли, дикая местность
 

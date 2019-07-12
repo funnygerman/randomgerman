@@ -1,5 +1,6 @@
 [#19_001]
 = #105
+:hardbreaks:
 
 *das Spiel / die Spiele* - игра
 

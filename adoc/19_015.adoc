@@ -1,5 +1,6 @@
 [#19_015]
 = #119
+:hardbreaks:
 
 *zaubern [цауберн] / zauberte / gezaubert* - здесь творить волшебство
 

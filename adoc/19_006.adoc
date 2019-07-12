@@ -1,5 +1,6 @@
 [#19_006]
 = #110
+:hardbreaks:
 
 *die Heimat / die Heimaten* - родина
 

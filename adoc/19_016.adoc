@@ -1,5 +1,6 @@
 [#19_016]
 = #120
+:hardbreaks:
 
 *der Ort [орт] / die Orte* - место
 *vor Ort [фор орт]* - на месте
