@@ -2,7 +2,7 @@
 = #106
 :hardbreaks:
 
-*gelb* - жёлтый
+*gelb [гельб]* - жёлтый
 ⠀⠀
 *Пример:*
 Flasche aus 100% Altplastik - mit Plastik aus dem gelben Sack (1).

@@ -2,7 +2,7 @@
 = #107
 :hardbreaks:
 
-*entsetzlich* - ужасный, страшный
+*entsetzlich [энтзетцлих]* - ужасный, страшный
 
 *Пример:*
 Ach, diese Lücke, diese entsetzliche Lücke.

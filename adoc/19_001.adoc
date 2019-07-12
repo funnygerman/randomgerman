@@ -2,7 +2,7 @@
 = #105
 :hardbreaks:
 
-*das Spiel / die Spiele* - игра
+*das Spiel [шпиль] / die Spiele* - игра
 
 *Пример:*
 Der Weg ist das Spiel.

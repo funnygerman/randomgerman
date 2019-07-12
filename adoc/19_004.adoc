@@ -2,7 +2,7 @@
 = #108
 :hardbreaks:
 
-*einsteigen / stieg ein / eingestiegen* - садиться, входить, влезать
+*einsteigen [айнштайген] / stieg ein / eingestiegen* - садиться, входить, влезать
 
 *Пример:*
 Fahrzeugdarstellung zeigt Sonderaustattung.

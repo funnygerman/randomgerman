@@ -2,7 +2,7 @@
 = #109
 :hardbreaks:
 
-*dumm* - глупый
+*dumm [дум]* - глупый
 
 *Пример:*
 Dumme Kinder gibt es nicht.
