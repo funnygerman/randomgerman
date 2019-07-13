@@ -1,5 +1,6 @@
 [#18_010]
 = #78
+:hardbreaks:
 
 *das Geld* - деньги
 

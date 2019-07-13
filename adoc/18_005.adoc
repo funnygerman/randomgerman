@@ -1,5 +1,6 @@
 [#18_005]
 = #73
+:hardbreaks:
 
 *einladen / lud ein / eingeladen* - пригласить, приглашать
 

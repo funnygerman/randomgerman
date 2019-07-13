@@ -1,5 +1,6 @@
 [#18_016]
 = #84
+:hardbreaks:
 
 *abkleben / klebte ab / abgeklebt* - заклеить, заклеивать
 

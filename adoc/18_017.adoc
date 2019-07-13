@@ -1,5 +1,6 @@
 [#18_017]
 = #85
+:hardbreaks:
 
 *schließen / schloss / geschlossen* - закрыть, закрывать, заключать
 

@@ -1,5 +1,6 @@
 [#18_029]
 = #97
+:hardbreaks:
 
 *der Arztbesuch* - поход к врачу
 

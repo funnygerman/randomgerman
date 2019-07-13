@@ -1,5 +1,6 @@
 [#18_004]
 = #72
+:hardbreaks:
 
 *der Wettkampf / die Wettkämpfe* - соревнование, состязание
 

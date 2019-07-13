@@ -1,5 +1,6 @@
 [#18_007]
 = #75
+:hardbreaks:
 
 *helfen / half / geholfen* - помогать, помочь
 

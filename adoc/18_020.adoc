@@ -1,5 +1,6 @@
 [#18_020]
 = #88
+:hardbreaks:
 
 *überlassen / überließ / überlassen* - предоставить, оставить, давать.
 

@@ -1,5 +1,6 @@
 [#18_012]
 = #80
+:hardbreaks:
 
 *leuchtend* - светящийся
 

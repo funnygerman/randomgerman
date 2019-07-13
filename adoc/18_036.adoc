@@ -1,5 +1,6 @@
 [#18_036]
 = #104
+:hardbreaks:
 
 *die Fahrtreppe / die Fahrtreppen* - эскалатор
 

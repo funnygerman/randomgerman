@@ -1,5 +1,6 @@
 [#18_031]
 = #99
+:hardbreaks:
 
 *stehenbleiben / blieb stehen / stehen geblieben* - остановиться, останавливаться
 

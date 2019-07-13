@@ -1,5 +1,6 @@
 [#18_030]
 = #98
+:hardbreaks:
 
 *probieren / probierte / probiert* - попробовать, испробывать, отведать
 

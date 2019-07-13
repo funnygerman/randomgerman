@@ -1,5 +1,6 @@
 [#18_027]
 = #95
+:hardbreaks:
 
 *die Beere / die Beeren* - ягода
 

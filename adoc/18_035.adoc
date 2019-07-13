@@ -1,5 +1,6 @@
 [#18_035]
 = #103
+:hardbreaks:
 
 *leuchten / leuchtete / geleuchtet* - светиться, сиять
 

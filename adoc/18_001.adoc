@@ -1,5 +1,6 @@
 [#18_001]
 = #69
+:hardbreaks:
 
 *schauen / schauete / geschaut* - смотреть, глядеть
 

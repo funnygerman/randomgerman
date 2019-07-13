@@ -1,5 +1,6 @@
 [#18_028]
 = #96
+:hardbreaks:
 
 *der Kunde / die Kunden* - клиент, заказчик, покупатель 
 

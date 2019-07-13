@@ -1,5 +1,6 @@
 [#18_011]
 = #79
+:hardbreaks:
 
 *erleichtern /erleichterte /erleichtert* - облегчить, облегчать
 

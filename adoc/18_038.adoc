@@ -1,5 +1,6 @@
 [#18_038]
 = #104
+:hardbreaks:
 
 *das Land / die Länder* - страна
 

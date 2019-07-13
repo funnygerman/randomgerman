@@ -1,5 +1,6 @@
 [#18_025]
 = #93
+:hardbreaks:
 
 *das Abenteuer / die Abenteuer* - приключение
 
