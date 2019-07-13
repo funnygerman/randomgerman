@@ -2,7 +2,7 @@
 = #110
 :hardbreaks:
 
-*die Heimat / die Heimaten* - родина
+*die Heimat [хаймат] / die Heimaten* - родина
 
 *Пример:*
 Wir vermieten Heimat.

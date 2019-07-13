@@ -2,7 +2,7 @@
 = #111
 :hardbreaks:
 
-*die Nudel / die Nudeln* - лапша
+*die Nudel [нудель] / die Nudeln* - лапша
 
 *Пример:*
 Heute gibt's Nudeln!

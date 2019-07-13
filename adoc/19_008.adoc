@@ -2,7 +2,7 @@
 = #112
 :hardbreaks:
 
-*die Zeitung / die Zeitungen* - газета
+*die Zeitung [цайтунг] / die Zeitungen* - газета
 
 *Пример:*
 Unsere Zeitung wird lebendig.
