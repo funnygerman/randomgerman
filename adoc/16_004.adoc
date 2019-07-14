@@ -1,5 +1,6 @@
 [#16_004]
 = #4
+:hardbreaks:
 
 *die Schwangere* - беременная (девушка, женщина)
 *schwanger sein* - быть беременной

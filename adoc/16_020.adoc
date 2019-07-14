@@ -1,5 +1,6 @@
 [#16_020]
 = #20
+:hardbreaks:
 
 *das Gericht / die Gerichte* - блюдо
 *das Gericht / die Gerichte* - суд

@@ -1,5 +1,6 @@
 [#16_034]
 = #34
+:hardbreaks:
 
 *das Geheimnis / die Geheimnisse* - тайна, секрет
 

@@ -1,5 +1,6 @@
 [#16_040]
 = #40
+:hardbreaks:
 
 *zahlen / zahlte / gezahlt* - платить
 

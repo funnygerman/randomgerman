@@ -1,5 +1,6 @@
 [#16_027]
 = #27
+:hardbreaks:
 
 *die Trennung / die Trennungen* - расставание, развод
 *die Trennung / die Trennungen* - разделение

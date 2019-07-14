@@ -1,5 +1,6 @@
 [#16_021]
 = #21
+:hardbreaks:
 
 *sondern* - а, но
 

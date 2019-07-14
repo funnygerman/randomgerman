@@ -1,5 +1,6 @@
 [#16_026]
 = #26
+:hardbreaks:
 
 *die Hand / die Hände* - рука
 

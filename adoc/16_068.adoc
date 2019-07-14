@@ -1,5 +1,6 @@
 [#16_068]
 = #68
+:hardbreaks:
 
 *die Kerze / die Kerzen* - свеча
 

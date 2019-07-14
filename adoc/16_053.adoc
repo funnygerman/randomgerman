@@ -1,5 +1,6 @@
 [#16_053]
 = #53
+:hardbreaks:
 
 *reichen / reichte / gereicht* - хватать, быть достаточным
 

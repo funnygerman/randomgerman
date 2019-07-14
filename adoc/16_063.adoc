@@ -1,5 +1,6 @@
 [#16_063]
 = #63
+:hardbreaks:
 
 *der Mensch / die Menschen* - человек
 

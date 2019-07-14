@@ -1,5 +1,6 @@
 [#16_018]
 = #18
+:hardbreaks:
 
 *der Zusammenhang / die Zusammenhänge* - связь
 

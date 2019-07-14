@@ -1,5 +1,6 @@
 [#16_030]
 = #30
+:hardbreaks:
 
 *entdecken / entdeckte / entdeckt* - открывать (что-то новое), совершить открытие
 

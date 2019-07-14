@@ -1,5 +1,6 @@
 [#16_052]
 = #52
+:hardbreaks:
 
 *die Werbung* - реклама
 

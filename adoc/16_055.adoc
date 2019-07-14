@@ -1,5 +1,6 @@
 [#16_055]
 = #55
+:hardbreaks:
 
 *die Wissenschaft / die Wissenschaften* - наука
 

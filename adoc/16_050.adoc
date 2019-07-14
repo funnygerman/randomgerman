@@ -1,5 +1,6 @@
 [#16_050]
 = #50
+:hardbreaks:
 
 *verdienen / verdiente / verdient* - здесь заслужить
 

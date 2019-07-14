@@ -1,5 +1,6 @@
 [#16_003]
 = #3
+:hardbreaks:
 
 *die Umwelt* - окружение
 *die Umwelt* - окружающая среда

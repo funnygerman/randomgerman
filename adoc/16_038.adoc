@@ -1,5 +1,6 @@
 [#16_038]
 = #38
+:hardbreaks:
 
 *die Fahrkarte / die Fahrkarten* - билет (на проезд) 
 

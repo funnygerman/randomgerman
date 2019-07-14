@@ -1,5 +1,6 @@
 [#16_036]
 = #36
+:hardbreaks:
 
 *backen / buck / gebacken* - печь, выпекать 
 

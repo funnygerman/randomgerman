@@ -1,5 +1,6 @@
 [#16_065]
 = #65
+:hardbreaks:
 
 *das Zuhause* - (родной) дом
 

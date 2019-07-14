@@ -1,5 +1,6 @@
 [#16_009]
 = #9
+:hardbreaks:
 
 *sich fühlen / fühlte / gefühlt* - чувствовать себя
 

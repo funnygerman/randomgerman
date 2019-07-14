@@ -1,5 +1,6 @@
 [#16_066]
 = #66
+:hardbreaks:
 
 *der Kopf / die Köpfe* - голова
 

@@ -1,5 +1,6 @@
 [#16_049]
 = #49
+:hardbreaks:
 
 *die Fluggesellschaft / die Fluggesellschaften* - авиакомпания
 

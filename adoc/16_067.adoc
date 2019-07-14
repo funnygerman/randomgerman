@@ -1,5 +1,6 @@
 [#16_067]
 = #67
+:hardbreaks:
 
 *der Weihnachtsbaum* - рождественская ёлка
 

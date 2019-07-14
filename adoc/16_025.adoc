@@ -1,5 +1,6 @@
 [#16_025]
 = #25
+:hardbreaks:
 
 *vertreten / vertrat / verteten* - временно заменять, замещать
 *vertreten / vertrat / verteten* - представлять (какую-либо организацию)

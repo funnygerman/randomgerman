@@ -1,5 +1,6 @@
 [#16_058]
 = #58
+:hardbreaks:
 
 *die Lichterkette* - световая гирлянда 
 

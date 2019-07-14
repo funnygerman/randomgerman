@@ -1,5 +1,6 @@
 [#16_014]
 = #14
+:hardbreaks:
 
 *der Raum / die Räume* - комната, помещение
 *der Raum / die Räume* - пространство

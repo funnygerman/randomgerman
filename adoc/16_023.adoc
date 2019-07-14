@@ -1,5 +1,6 @@
 [#16_023]
 = #23
+:hardbreaks:
 
 *stellen / stellte / gestellt* - ставить, поставить
 

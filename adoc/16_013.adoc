@@ -1,5 +1,6 @@
 [#16_013]
 = #13
+:hardbreaks:
 
 *der Schrank / die Schränke* - шкаф
 

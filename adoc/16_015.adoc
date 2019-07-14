@@ -1,5 +1,6 @@
 [#16_015]
 = #15
+:hardbreaks:
 
 *erläutern / erläuterte / erläutert* - объяснять, пояснить
 

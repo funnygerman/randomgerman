@@ -1,5 +1,6 @@
 [#16_037]
 = #37
+:hardbreaks:
 
 *die Vielfalt* - разнообразие
 

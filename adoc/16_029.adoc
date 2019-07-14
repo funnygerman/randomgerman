@@ -1,5 +1,6 @@
 [#16_029]
 = #29
+:hardbreaks:
 
 *der Aufzug / die Aufzüge* - лифт
 

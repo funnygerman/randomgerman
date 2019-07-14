@@ -1,5 +1,6 @@
 [#16_043]
 = #43
+:hardbreaks:
 
 *bezeichnen / bezeichnete / bezeichnet* - называть 
 

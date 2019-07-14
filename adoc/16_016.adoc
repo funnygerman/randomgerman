@@ -1,5 +1,6 @@
 [#16_016]
 = #16
+:hardbreaks:
 
 *das Meer / die Meere* - море
 

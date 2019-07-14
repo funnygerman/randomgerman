@@ -1,5 +1,6 @@
 [#16_039]
 = #39
+:hardbreaks:
 
 *der Rückflug / die Rückfluge* - обратный полёт
 

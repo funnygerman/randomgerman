@@ -1,5 +1,6 @@
 [#16_033]
 = #33
+:hardbreaks:
 
 *drohen / drohte / gedroht* - грозить, угрожать
 

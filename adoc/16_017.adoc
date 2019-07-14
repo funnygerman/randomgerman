@@ -1,5 +1,6 @@
 [#16_017]
 = #17
+:hardbreaks:
 
 *brüllen / brüllte / gebrüllt* - рычать, орать, реветь
 

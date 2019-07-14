@@ -1,5 +1,6 @@
 [#16_041]
 = #41
+:hardbreaks:
 
 *sparen / sparte / gespart* - экономить
 

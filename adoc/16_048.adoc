@@ -1,5 +1,6 @@
 [#16_048]
 = #48
+:hardbreaks:
 
 *die Kindheit* - детство
 

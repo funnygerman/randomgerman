@@ -1,5 +1,6 @@
 [#16_046]
 = #46
+:hardbreaks:
 
 *das Pferd / die Pferde* - лошадь
 

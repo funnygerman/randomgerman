@@ -1,5 +1,6 @@
 [#16_047]
 = #47
+:hardbreaks:
 
 *schmecken / schmeckte / geschmeckt* - здесь пробовать на вкус 
 

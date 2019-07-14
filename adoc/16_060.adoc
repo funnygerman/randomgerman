@@ -1,5 +1,6 @@
 [#16_060]
 = #60
+:hardbreaks:
 
 *das Spielzeug / die Spielzeuge* - игрушка
 

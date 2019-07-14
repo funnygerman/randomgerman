@@ -1,5 +1,6 @@
 [#16_042]
 = #42
+:hardbreaks:
 
 *klopfen / klopfte / geklopft* - стучать
 
