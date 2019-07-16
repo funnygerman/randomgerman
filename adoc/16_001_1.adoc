@@ -1,12 +1,9 @@
-[#16_001]
-= #1
+[#16_001_1]
+= #1.1
 :hardbreaks:
 
-*einfach* - просто или простой
+*einfach [айнфах]* - просто
 
-*Примеры:*
-Eine einfache Aufgabe.
-Простое задание.
-  
+*Пример:*
 Es war gar nicht so einfach, dich zu erreichen.
 Не так-то просто было до тебя дозвониться.

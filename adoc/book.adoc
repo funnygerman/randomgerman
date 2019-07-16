@@ -11,9 +11,11 @@ ifndef::ebook-format[]
 :leveloffset: 1
 endif::[]
 
-include::16_001.adoc[]
+include::16_001_1.adoc[]
+include::16_001_2.adoc[]
 include::16_002.adoc[]
-include::16_003.adoc[]
+include::16_003_1.adoc[]
+include::16_003_2.adoc[]
 include::16_004.adoc[]
 include::16_005.adoc[]
 include::16_006.adoc[]

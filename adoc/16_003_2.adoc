@@ -1,0 +1,9 @@
+[#16_003_2]
+= #3.2
+:hardbreaks:
+
+*die Umwelt [умвельт]* - окружающая среда
+
+*Пример:*
+Die Schadstoffe gelangen in die Umwelt.
+Вредные вещества попадают в окружающую среду.

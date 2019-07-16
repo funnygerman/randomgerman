@@ -2,8 +2,7 @@
 = #2
 :hardbreaks:
 
-*überzeugt* - убеждённый, уверенный
-*überzeugt sein* - быть убеждённым, уверенным
+*überzeugt [у:берзойгт]* - убеждённый, уверенный
 
 *Примеры:*
 Er ist ein überzeugter Demokrat.

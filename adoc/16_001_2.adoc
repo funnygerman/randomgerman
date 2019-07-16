@@ -1,0 +1,9 @@
+[#16_001_2]
+= #1.2
+:hardbreaks:
+
+*einfach [айнфах]* - простой
+
+*Пример:*
+Eine einfache Aufgabe.
+Простое задание.
