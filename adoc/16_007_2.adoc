@@ -1,0 +1,9 @@
+[#16_007_2]
+= #7.2
+:hardbreaks:
+
+*der Teil [тайль] / die Teile* - часть (доля чего-то), доля
+
+*Пример:*
+Der erste Teil des Romans.
+Первая часть романа.

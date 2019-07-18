@@ -2,7 +2,7 @@
 = #6
 :hardbreaks:
 
-*aber* - но, а
+*aber [абэ]* - но, а
 
 *Примеры:*
 Heute nicht, aber morgen.

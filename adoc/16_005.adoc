@@ -2,7 +2,7 @@
 = #5
 :hardbreaks:
 
-*jetzt* - сейчас, в настоящий момент
+*jetzt [йетцт]* - сейчас, в настоящий момент
 
 *Примеры:*
 Ich habe jetzt keine Zeit.
