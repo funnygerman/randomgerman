@@ -63,6 +63,7 @@
 ****
 *die Fahrkarte / die Fahrkarten* - билет (на проезд) <<16_038#16_038, 38>>
 *die Fahrtreppe / die Fahrtreppen* - эскалатор <<18_036#18_036, 104>>
+*feiern [файерн] / feierte / gefeiert* - праздновать <<19_024#19_024, 128>>
 *die Fluggesellschaft / die Fluggesellschaften* - авиакомпания <<16_049#16_049, 49>>
 *der Freund [фройнд] / die Freunde* - друг <<19_017#19_017, 121>>
 *sich fühlen / fühlte / gefühlt* - чувствовать себя <<16_009#16_009, 9>>
@@ -137,6 +138,7 @@
 
 == N
 ****
+*neu [ной]* - новый <<19_025#19_025, 128>>
 *die Nudel [нудель] / die Nudeln* - лапша <<19_007#19_007, 111>>
 ****
  
