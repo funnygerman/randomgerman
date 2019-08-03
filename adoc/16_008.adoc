@@ -2,11 +2,13 @@
 = #8
 :hardbreaks:
 
-*miteinander* - вместе, совместно, друг с другом
+*miteinander [митайнандэ]* - вместе, совместно, друг с другом
 
 *Примеры:*
 Miteinander nach Hause gehen.
+
 Вместе идти домой.
 
 Wir sollten mehr miteinander reden.
+
 Нам надо чаще разговаривать друг с другом.
