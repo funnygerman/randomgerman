@@ -6,4 +6,5 @@
 
 *Пример:*
 Sie ist im vierten Monat schwanger.
+
 Она на четвёртом месяце беременности.

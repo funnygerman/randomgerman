@@ -6,4 +6,5 @@
 
 *Пример:*
 Er fühlt sich von seiner Umwelt missverstanden.
+
 Он чувствует себя неправильно понятым в своем окружении.

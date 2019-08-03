@@ -6,7 +6,9 @@
 
 *Примеры:*
 Heute nicht, aber morgen.
+
 Не сегодня, а завтра.
 
 Es wurde dunkel, aber wir machten kein Licht.
+
 Уже потемнело, но мы не включали свет.

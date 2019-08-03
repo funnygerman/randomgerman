@@ -6,7 +6,9 @@
 
 *Примеры:*
 Er ist ein überzeugter Demokrat.
+
 Он убеждённый демократ
 
 Ich bin davon überzeugt, dass ich Ihnen helfen kann.
+
 Я уверен, что cмогу Вам помочь.

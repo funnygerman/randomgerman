@@ -6,7 +6,9 @@
 
 *Примеры:*
 Ich habe jetzt keine Zeit.
+
 У меня сейчас нет времени.
 
 Er hat bis jetzt gearbeitet.
+
 До настоящего момента он работал.
