@@ -2,8 +2,9 @@
 = #18
 :hardbreaks:
 
-*der Zusammenhang / die Zusammenhänge* - связь
+*der Zusammenhang [цузамэнханг] / die Zusammenhänge* - связь
 
-*Примеры:*
+*Пример:*
 Kein Zusammenhang mit der Migrationskrise.
+
 Никакой связи с миграционным кризисом.

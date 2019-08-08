@@ -2,8 +2,9 @@
 = #12
 :hardbreaks:
 
-*dampfen / dampfte / gedampft* - выпускать пар, испускать пар, дымить, дымиться
+*dampfen [дампфэн] / dampfte / gedampft* - выпускать пар, испускать пар, дымить, дымиться
 
-*Примеры:*
+*Пример:*
 Die Suppe hat noch gedampft.
+
 От супа еще шёл пар.

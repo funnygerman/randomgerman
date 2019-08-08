@@ -2,8 +2,9 @@
 = #13
 :hardbreaks:
 
-*der Schrank / die Schränke* - шкаф
+*der Schrank [шранк] / die Schränke* - шкаф
 
-*Примеры:*
+*Пример:*
 Einen Schrank öffnen.
+
 Открыть шкаф.

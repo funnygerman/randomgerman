@@ -2,7 +2,7 @@
 = #11
 :hardbreaks:
 
-*lagern / lagerte / gelagert* - хранить, храниться, хранить на складе, помещать на склад
+*lagern [лагэрн] / lagerte / gelagert* - хранить, храниться, хранить на складе, помещать на склад
 
 *Примеры:*
 Wichtige Dokumente lagern im Bergwerk.

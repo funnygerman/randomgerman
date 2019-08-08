@@ -2,8 +2,9 @@
 = #15
 :hardbreaks:
 
-*erläutern / erläuterte / erläutert* - объяснять, пояснить
+*erläutern [эрлойтерн] / erläuterte / erläutert* - объяснять, пояснить
 
-*Примеры:*
+*Пример:*
 Etwas an einem Beispiel erläutern.
+
 Объяснять что-то на примере.

@@ -1,0 +1,9 @@
+[#16_014_1]
+= #14.1
+:hardbreaks:
+
+*der Raum [раум] / die Räume* - пространство
+
+*Примеры:*
+Der dreidimensionale Raum.
+Трехмерное пространство.

@@ -2,7 +2,7 @@
 = #16
 :hardbreaks:
 
-*das Meer / die Meere* - море
+*das Meer [меер] / die Meere* - море
 
 *Примеры:*
 Das Schwarze Meer.
