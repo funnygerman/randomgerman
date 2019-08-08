@@ -5,5 +5,5 @@
 *unberechtigt* - незаконно, неправомерно
 
 *Пример:*
-Unberechtigt geparkte Fahrzeuge werden kostenpflichtig abgeschleppt.  
+Unberechtigt geparkte Fahrzeuge werden kostenpflichtig abgeschleppt.
 Автомобили, припаркованные без разрешения, будут эвакуированы за плату. 

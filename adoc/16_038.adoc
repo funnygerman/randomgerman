@@ -2,7 +2,7 @@
 = #38
 :hardbreaks:
 
-*die Fahrkarte / die Fahrkarten* - билет (на проезд) 
+*die Fahrkarte / die Fahrkarten* - билет (на проезд)
 
 *Пример:*
 Ihre Fahrkarte wurde auf Thermopapier gedruckt.
