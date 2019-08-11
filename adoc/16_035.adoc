@@ -2,7 +2,7 @@
 = #35
 :hardbreaks:
 
-*zeitweise* - время от времени, порой
+*zeitweise [цайтвайзэ]* - время от времени, порой
 
 *Пример:*
 Es kann zeitweise lauter werden.

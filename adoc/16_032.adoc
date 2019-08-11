@@ -2,7 +2,7 @@
 = #32
 :hardbreaks:
 
-*grenzenlos* - безграничный, бескрайний
+*grenzenlos [грэнцэнлоз]* - безграничный, бескрайний
 
 *Пример:*
 Auch unter den Wolken ist die Freiheit grenzenlos.

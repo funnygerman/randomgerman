@@ -2,7 +2,7 @@
 = #36
 :hardbreaks:
 
-*backen / buck / gebacken* - печь, выпекать
+*backen [бакэн] / buck / gebacken* - печь, выпекать
 
 *Пример:*
 Wir backen für Sie hier. Den ganzen Tag. Nach allen Regeln des Backhandwerks.

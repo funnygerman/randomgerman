@@ -2,7 +2,7 @@
 = #34
 :hardbreaks:
 
-*das Geheimnis / die Geheimnisse* - тайна, секрет
+*das Geheimnis [гехаймнис] / die Geheimnisse* - тайна, секрет
 
 *Пример:*
 Sie quatschen gern, kennen unsere Geheimnisse und erfahren jedes Gerücht als erste: die Friseure.

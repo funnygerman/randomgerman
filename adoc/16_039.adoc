@@ -2,7 +2,7 @@
 = #39
 :hardbreaks:
 
-*der Rückflug / die Rückfluge* - обратный полёт
+*der Rückflug [рюкфлуг] / die Rückfluge* - обратный полёт
 
 *Пример:*
 Jetzt einkaufen, Ware bei uns lassen, Einkauf bei Ruckflug abholen.

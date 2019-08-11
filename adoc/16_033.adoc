@@ -2,7 +2,7 @@
 = #33
 :hardbreaks:
 
-*drohen / drohte / gedroht* - грозить, угрожать
+*drohen [дроэн] / drohte / gedroht* - грозить, угрожать
 
 *Пример:*
 Heuer (=dieses Jahr, bayerisch) droht der Russen-Winter.

@@ -2,7 +2,7 @@
 = #37
 :hardbreaks:
 
-*die Vielfalt* - разнообразие
+*die Vielfalt [фильфальт]* - разнообразие
 
 *Пример:*
 Wir lieben herbstliche Vielfalt.
