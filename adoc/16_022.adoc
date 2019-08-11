@@ -2,11 +2,13 @@
 = #22
 :hardbreaks:
 
-*später* - позже, позднее
+*später [шпэтэ]* - позже, позднее
 
 *Примеры:*
 Früher oder später.
+
 Рано или поздно.
 
 Zwei Tage später.
+
 Два дня спустя.

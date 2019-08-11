@@ -2,7 +2,7 @@
 = #23
 :hardbreaks:
 
-*stellen / stellte / gestellt* - ставить, поставить
+*stellen [штэлен] / stellte / gestellt* - ставить, поставить
 
 *Примеры:*
 Die Teller auf den Tisch stellen.

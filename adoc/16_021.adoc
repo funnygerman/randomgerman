@@ -2,11 +2,13 @@
 = #21
 :hardbreaks:
 
-*sondern* - а, но
+*sondern [зондерн]* - а, но
 
 *Примеры:*
 Nicht nur ein Laden, sondern auch ein Treffpunkt.
+
 Не только магазин, но и место встречи.
 
 Das ist nicht grün, sondern blau.
+
 Это не зелёный, а голубой цветю.

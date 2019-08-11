@@ -2,8 +2,9 @@
 = #29
 :hardbreaks:
 
-*der Aufzug / die Aufzüge* - лифт
+*der Aufzug [ауфцуг] / die Aufzüge* - лифт
 
-*Примеры:*
+*Пример:*
 Aufzug im Brandfall nicht benutzen.
+
 Не пользоваться лифтом во время пожара.

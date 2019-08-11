@@ -2,11 +2,13 @@
 = #26
 :hardbreaks:
 
-*die Hand / die Hände* - рука
+*die Hand [ханд] / die Hände* - рука
 
-*Примеры:*
+*Пример:*
 Hände hoch.
+
 Руки вверх.
 
 Hände waschen nicht vergessen.
+
 Не забыть помыть руки.
