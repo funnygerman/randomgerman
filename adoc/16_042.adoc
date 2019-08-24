@@ -2,7 +2,7 @@
 = #42
 :hardbreaks:
 
-*klopfen / klopfte / geklopft* - стучать
+*klopfen [клопфэн] / klopfte / geklopft* - стучать
 
 *Пример:*
 Eine Gelegenheit klopft an die Tür.

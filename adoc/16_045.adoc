@@ -2,7 +2,7 @@
 = #45
 :hardbreaks:
 
-*anbieten / bot an / angeboten* - предлагать
+*anbieten [анбитэн] / bot an / angeboten* - предлагать
 
 *Пример:*
 In der letzten Verkaufsstunde bieten wir unseren Filial-Kunden die Happy-Hour an. Tagfrische Brot- und Backwaren werden zu reduzierten Preisen a abverkauft.

@@ -2,7 +2,7 @@
 = #46
 :hardbreaks:
 
-*das Pferd / die Pferde* - лошадь
+*das Pferd [пферд] / die Pferde* - лошадь
 
 *Пример:*
 Für Pferde entwickelt. Für Menschen entdeckt.

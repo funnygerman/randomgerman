@@ -2,7 +2,7 @@
 = #40
 :hardbreaks:
 
-*zahlen / zahlte / gezahlt* - платить
+*zahlen [цален] / zahlte / gezahlt* - платить
 
 *Пример:*
 Zahlen Sie in Bar. Zahlen Sie ab 5 Euro mit Kreditkarte.

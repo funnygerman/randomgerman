@@ -2,7 +2,7 @@
 = #49
 :hardbreaks:
 
-*die Fluggesellschaft / die Fluggesellschaften* - авиакомпания
+*die Fluggesellschaft [флюггезэльшафт] / die Fluggesellschaften* - авиакомпания
 
 *Пример:*
 Fluggesellschaften sind gesetzlich verpflichtet, Sie über Ihre Rechte zu informieren und Ihnen mitzuteilen, wo Sie sich beschweren können.

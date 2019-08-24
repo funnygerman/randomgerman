@@ -2,7 +2,7 @@
 = #41
 :hardbreaks:
 
-*sparen / sparte / gespart* - экономить
+*sparen [шпарэн] / sparte / gespart* - экономить
 
 *Пример:*
 Effizient ist, mit dem Kühlschrank zu sparen, nicht an der Coolness.

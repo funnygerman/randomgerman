@@ -2,7 +2,7 @@
 = #44
 :hardbreaks:
 
-*einige* - некоторые
+*einige [айнигэ]* - некоторые
 
 *Пример:*
 Viele Bio-Produkte begleiten und schon seit Jahren - einige bereits seit Jahrzehnten.

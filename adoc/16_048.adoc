@@ -2,7 +2,7 @@
 = #48
 :hardbreaks:
 
-*die Kindheit* - детство
+*die Kindheit [киндхайт]* - детство
 
 *Пример:*
 Der deutsche Wald: ein Ort, den unser Autor hasst, seit der Kindheit. Sein Sohn aber liebt die Natur. Gemeinsam machen die beiden eine Reise in den wildesten Nationalpark, den das Land zu bieten hat.
