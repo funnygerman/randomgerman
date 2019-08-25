@@ -2,7 +2,7 @@
 = #59
 :hardbreaks:
 
-*handschriftlich* - рукописный, написанный от руки
+*handschriftlich [хандшрифтлихь]* - рукописный, написанный от руки
 
 *Пример:*
 Verschickst du Weihnachtspost an Freunde und Verwandte?

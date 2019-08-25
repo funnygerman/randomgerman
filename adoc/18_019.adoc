@@ -2,7 +2,7 @@
 = #87
 :hardbreaks:
 
-*gesichert sein* - в данном примере от sichern - защищать, ограждать, т.е. быть защищёным
+*gesichert [гезихерт] sein* - в данном примере от sichern - защищать, ограждать, т.е. быть защищёным
 
 *Пример:*
 Unsere Ware ist elektronisch gegen Diebstahl gesichert.

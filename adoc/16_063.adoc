@@ -2,7 +2,7 @@
 = #63
 :hardbreaks:
 
-*der Mensch / die Menschen* - человек
+*der Mensch [менш] / die Menschen* - человек
 
 *Пример:*
 Schon gesehen?

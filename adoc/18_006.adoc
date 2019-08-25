@@ -2,7 +2,7 @@
 = #74
 :hardbreaks:
 
-*sparen / sparte / gespart* - беречь, сберегать
+*sparen [шпарэн] / sparte / gespart* - беречь, сберегать
 
 *Пример:*
 Effizienz ist die Energie zu sparen. Nicht die Wärme.

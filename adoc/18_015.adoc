@@ -2,7 +2,7 @@
 = #83
 :hardbreaks:
 
-*beide* - оба, обе
+*beide [байдэ]* - оба, обе
 
 *Пример:*
 Zur Weiterfahrt müssen Sie in den genannten Nächten in beiden Fahrtrichtungen am Bahnhof Mailingerstraße umsteigen.

@@ -2,7 +2,7 @@
 = #62
 :hardbreaks:
 
-*zwischen* - между
+*zwischen [цвишэн]* - между
 
 *Пример:*
 Heute findest du nicht nur ein leckeres Stück Schokolade hinter deinem Türchen, sondern auch eine IKEA-Aktionskarte im Wert von mindestens 5 Euro!

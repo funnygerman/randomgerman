@@ -2,7 +2,7 @@
 = #73
 :hardbreaks:
 
-*einladen / lud ein / eingeladen* - пригласить, приглашать
+*einladen [айнладэн] / lud ein / eingeladen* - пригласить, приглашать
 
 *Пример:*
 Wir haben ihn extra eingeladen, damit er uns Ausschnitte aus dem "Geizigen Ritter" des Dichters Pushkin deklamiert.

@@ -2,7 +2,7 @@
 = #81
 :hardbreaks:
 
-*woher* - откуда
+*woher [вохер]* - откуда
 
 *Пример:*
 Du weißt wohin du fährst, aber weißt du auch woher du kommst?

@@ -2,7 +2,7 @@
 = #78
 :hardbreaks:
 
-*das Geld* - деньги
+*das Geld [гельд]* - деньги
 
 *Пример:*
 Ich glaube, die Probleme hängen nicht unbedingt von Geld ab, sondern von Religionen und so.

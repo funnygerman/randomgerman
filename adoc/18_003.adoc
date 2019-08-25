@@ -2,7 +2,7 @@
 = #71
 :hardbreaks:
 
-*spontan* - спонтанно
+*spontan [шпонтан]* - спонтанно
 
 *Пример:*
 Stimmt ja!

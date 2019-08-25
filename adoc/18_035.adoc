@@ -2,7 +2,7 @@
 = #103
 :hardbreaks:
 
-*leuchten / leuchtete / geleuchtet* - светиться, сиять
+*leuchten [лойхтэн] / leuchtete / geleuchtet* - светиться, сиять
 
 *Пример:*
 München leuchtet.

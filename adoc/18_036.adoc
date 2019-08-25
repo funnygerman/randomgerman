@@ -2,7 +2,7 @@
 = #104
 :hardbreaks:
 
-*die Fahrtreppe / die Fahrtreppen* - эскалатор
+*die Fahrtreppe [фартрэпэ] / die Fahrtreppen* - эскалатор
 
 *Пример:*
 Fahrtreppe mit Laufrichtungswechsel

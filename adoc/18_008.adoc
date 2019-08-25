@@ -2,7 +2,7 @@
 = #76
 :hardbreaks:
 
-*gut* - хороший
+*gut [гут]* - хороший
 
 *Пример:*
 Die Qualität muss richtig gut sein.

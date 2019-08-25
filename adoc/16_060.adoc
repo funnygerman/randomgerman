@@ -2,7 +2,7 @@
 = #60
 :hardbreaks:
 
-*das Spielzeug / die Spielzeuge* - игрушка
+*das Spielzeug [шпильцойг] / die Spielzeuge* - игрушка
 
 *Пример:*
 Auch in diesem Jahr spendet #IKEA zur Adventszeit 1 Euro pro verkauftem Spielzeug oder Stofftier für Bildung! Mehr Infos zu dieser Aktion unter https://ikea.de/Bildung

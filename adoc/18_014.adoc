@@ -2,7 +2,7 @@
 = #82
 :hardbreaks:
 
-*danach* - затем, потом
+*danach [данах]* - затем, потом
 
 *Пример:*
 Danach möchte ich noch Formen, Schatten und die räumliche Gestaltung betrachten.

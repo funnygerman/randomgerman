@@ -2,7 +2,7 @@
 = #86
 :hardbreaks:
 
-*entsprechend* - соответствующий, соответственный
+*entsprechend [энтшпрэхэнд]* - соответствующий, соответственный
 
 *Пример:*
 Babynahrung können Sie hier erwärmen.

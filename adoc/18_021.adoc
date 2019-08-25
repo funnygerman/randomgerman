@@ -2,7 +2,7 @@
 = #89
 :hardbreaks:
 
-*unberechtigt* - незаконно, неправомерно
+*unberechtigt [унбэрэхьтигт]* - незаконно, неправомерно
 
 *Пример:*
 Unberechtigt geparkte Fahrzeuge werden kostenpflichtig abgeschleppt.

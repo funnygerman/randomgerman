@@ -2,7 +2,7 @@
 = #75
 :hardbreaks:
 
-*helfen / half / geholfen* - помогать, помочь
+*helfen [хэльфэн] / half / geholfen* - помогать, помочь
 
 *Пример:*
 Ich helfe, ohne mich selbst in Gefahr zu bringen.

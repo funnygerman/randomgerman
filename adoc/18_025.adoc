@@ -2,7 +2,7 @@
 = #93
 :hardbreaks:
 
-*das Abenteuer / die Abenteuer* - приключение
+*das Abenteuer [абэнтойэ] / die Abenteuer* - приключение
 
 *Пример:*
 Groß werden ist das größte Abenteuer.

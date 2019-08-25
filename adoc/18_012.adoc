@@ -2,7 +2,7 @@
 = #80
 :hardbreaks:
 
-*leuchtend* - светящийся
+*leuchtend [лойхтэнд]* - светящийся
 
 *Пример:*
 Und stets bekamen sie dabei leuchtende Augen.

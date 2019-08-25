@@ -2,7 +2,7 @@
 = #97
 :hardbreaks:
 
-*der Arztbesuch* - поход к врачу
+*der Arztbesuch [арцтбезух]* - поход к врачу
 
 *Пример:*
 Erlebe jetzt den Digitalen Arztbesuch - einfach per App und immer da, wo du bist.

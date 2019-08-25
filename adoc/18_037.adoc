@@ -2,7 +2,7 @@
 = #104
 :hardbreaks:
 
-*heilig* - святой, священный
+*heilig [хайлиг]* - святой, священный
 
 *Пример:*
 Jedes Menschen Leben soll heilig sein.

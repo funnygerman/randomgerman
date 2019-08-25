@@ -2,7 +2,7 @@
 = #102
 :hardbreaks:
 
-*wöchentlich* - еженедельно, каждую неделю
+*wöchentlich [вёхентлихь]* - еженедельно, каждую неделю
 
 *Пример:*
 Die Münchener produzieren wöchentlich so viel Plastikmüll, dass man einen der Frauentürme damit füllen könnte.

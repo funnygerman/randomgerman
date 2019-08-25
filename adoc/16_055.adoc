@@ -2,7 +2,7 @@
 = #55
 :hardbreaks:
 
-*die Wissenschaft / die Wissenschaften* - наука
+*die Wissenschaft [висэншафт] / die Wissenschaften* - наука
 
 *Пример:*
 Erforschen Sie die große Welt des Nanokosmos. Das deutsche Museum bleibt trotz Modernisierung für Sie geöffnet. Faszination für Wissenschaft und Technik kennt keine Pausen.

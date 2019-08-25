@@ -2,7 +2,7 @@
 = #101
 :hardbreaks:
 
-*blöd* - глупый, дурацкий
+*blöd [блёд]* - глупый, дурацкий
 
 *Пример:*
 Blödes Gefühl, sich auf das Versprechen von anderen nicht verlassen zu können.

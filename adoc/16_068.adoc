@@ -2,7 +2,7 @@
 = #68
 :hardbreaks:
 
-*die Kerze / die Kerzen* - свеча
+*die Kerze [керцэ] / die Kerzen* - свеча
 
 *Пример:*
 Morgen ist in Schweden ein ganz besonderer Tag.

@@ -2,7 +2,7 @@
 = #91
 :hardbreaks:
 
-*die Sprechzeiten* - часы приёма (посетителей, пациентов, клиентов)
+*die Sprechzeiten [шпрэхцайтэн]* - часы приёма (посетителей, пациентов, клиентов)
 
 *Пример:*
 Wir bitten die Sprechzeiten einzuhalten!

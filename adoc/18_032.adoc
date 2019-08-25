@@ -2,8 +2,9 @@
 = #100
 :hardbreaks:
 
-*der Arztbesuch* - поход к врачу
+*die Zukunft [цукунфт]* - будущее
 
 *Пример:*
-Erlebe jetzt den Digitalen Arztbesuch - einfach per App und immer da, wo du bist.
-Попробуй виртуальный поход к врачу - просто через мобильное приложение и всегда там, где находишься ты.
+Die Zukunft war früher auch besser. 
+
+Будущее было раньше тоже лучше. 

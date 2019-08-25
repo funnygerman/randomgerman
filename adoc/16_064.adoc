@@ -2,7 +2,7 @@
 = #64
 :hardbreaks:
 
-*letzter* - последний
+*letzter [летцтэ]* - последний
 
 *Пример:*
 Wann hast du das letzte Mal ein Pfefferkuchenhaus dekoriert?

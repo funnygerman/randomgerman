@@ -2,7 +2,7 @@
 = #66
 :hardbreaks:
 
-*der Kopf / die Köpfe* - голова
+*der Kopf [копф] / die Köpfe* - голова
 
 *Пример:*
 Hast du schon einen Winterentspannungsspaziergang gemacht?

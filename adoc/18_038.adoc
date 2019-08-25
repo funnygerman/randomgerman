@@ -2,7 +2,7 @@
 = #104
 :hardbreaks:
 
-*das Land / die Länder* - страна
+*das Land [ланд] / die Länder* - страна
 
 *Пример:*
 Die Republik Moldau zählt zu den ärmsten Ländern Europas. Mehr als ein Drittel der Bewohner hat das Land verlassen, um Geld im Ausland zu verdienen.

@@ -2,7 +2,7 @@
 = #70
 :hardbreaks:
 
-*dringend* - срочно, безотлагательно
+*dringend [дрингэнд]* - срочно, безотлагательно
 
 *Пример:*
 Du brauchst dringend einen Tapetenwechsel?!

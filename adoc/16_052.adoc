@@ -2,7 +2,7 @@
 = #52
 :hardbreaks:
 
-*die Werbung* - реклама
+*die Werbung [вербунг]* - реклама
 
 *Пример:*
 Wir beleuchten Werbung mit stromsparenden LEDs. Unser Beitrag für eine nachhaltige Entwicklung.

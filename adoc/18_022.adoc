@@ -2,7 +2,7 @@
 = #90
 :hardbreaks:
 
-*individuell* - индивидуальный, личный
+*individuell [индивидуэль]* - индивидуальный, личный
 
 *Пример:*
 Wenn es in den Ohren ständig piept, sind bestimmte Nervenzellen übermäßig aktiv.  Die App filtert diese individuellen Tinnitus-Frequenzen, die den Ohren auf die Nerven gehen, aus der Lieblingsmusik heraus. So werden die gereizten Nervenzellen beruhigt und die Intensität des Tinnitus kann gemildert werden.

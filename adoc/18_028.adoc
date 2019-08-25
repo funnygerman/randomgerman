@@ -2,7 +2,7 @@
 = #96
 :hardbreaks:
 
-*der Kunde / die Kunden* - клиент, заказчик, покупатель
+*der Kunde [кундэ] / die Kunden* - клиент, заказчик, покупатель
 
 *Пример:*
 Dennoch brauchen Kunden viel Geduld, wenn sie ein Martin-Horn kaufen wollen: aktuell beträgt die Lieferzeit bis zu 27 Wochen.
