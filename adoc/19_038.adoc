@@ -1,0 +1,10 @@
+[#19_038]
+= #142
+:hardbreaks:
+
+*die Frische [фришэ]* - свежесть
+
+*Пример:*
+Liebe Kunden. Die Bedientheke bleibt bis auf Weiteres geschlossen, da leider Probleme mit der Kühlanlage bestehen und wir so leider die Frische der Ware nicht sicher stellen können.
+
+Уважаемые покупатели. Данный прилавок останется временно закрытым, так как, к сожалению, имеются проблемы с холодильной установкой и мы таким образом не можем обеспечить свежесть товаров.

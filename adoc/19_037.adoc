@@ -1,0 +1,10 @@
+[#19_037]
+= #141
+:hardbreaks:
+
+*lecker [лекэ]* - вкусно
+
+*Пример:*
+Ich habe Sauerklee gefunden und gleich probiert. Sauer, aber lecker.
+
+Я нашёл кислицу и сразу же попробовал. Кисло, но вкусно.
