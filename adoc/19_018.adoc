@@ -2,6 +2,8 @@
 = #122
 :hardbreaks:
 
+Эту фразу мне разрешила использовать link:https://mobile.twitter.com/a_dobryn[Александра из твитера, window=_blank]
+
 *existieren [экзистирэн] / existierte / existiert* - существовать
 
 *Пример:*
