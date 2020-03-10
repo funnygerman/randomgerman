@@ -1,0 +1,10 @@
+[#20_001]
+= #152
+:hardbreaks:
+
+*neben* - кроме, наряду с
+
+*Пример:*
+Neben der "natürlichen Geburt" gibt es in Brasilien noch die "normale". Damit ist Kaiserschnitt gemeint.
+
+Кроме "естественных родов" в Бразилии есть ещё и "нормальные". Под ними подразумевается кесарево сечение.

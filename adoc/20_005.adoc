@@ -1,0 +1,12 @@
+[#20_005]
+= #156
+:hardbreaks:
+
+Сегодня очередное слово от вас, а точнее от канала link:http://tele.gg/bratwurst["Баварская колбаска", window=_blank], на актуальную тему экологии.__
+
+*decken / deckte / gedeckt* - покрывать, удовлетворять
+
+*Пример:*
+1,7 Erden müsste es eigentlich geben, um derzeitigen Verbrauch der Weltbevölkerung an Ressourcen zu decken.
+
+В действительности необходимо 1,7 планеты Земля для того, чтобы покрыть нынешнее потребление ресурсов всем мировым населением.
