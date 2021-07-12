@@ -1,0 +1,10 @@
+[#20_010]
+= #161
+:hardbreaks:
+
+**die Welt [вельт] / die Welten** - мир
+
+**Пример:**
+Bitcoin, Spekulationen, Energieverschwendung, Server-Farmen, eine Spielerei für Nerds: die Blockchain hat ein eher weniger gutes Image. Dabei geht es manchen Fans dieser Technologie um etwas ganz anderes: Blockchain soll die Welt verbessern.
+
+Биткоин, спекуляции, траты энергии, серверные фермы, игрушка для нёрдов: у блокчейна не самый лучший имидж. При этом для некоторых поклонников этой технологии цель заключается в чём-то совершенно другом: блокчейн должен сделать мир лучше.

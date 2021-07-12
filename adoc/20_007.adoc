@@ -1,0 +1,16 @@
+[#20_007]
+= #158
+:hardbreaks:
+
+**selbstätig [зельбсттэтихь]** - автоматически
+
+**Пример:**
+Achtung
+Feuerwehrabschluss!
+Das Tor schließt selbstätig.
+Der Aufenthalt von Personen und das Abstellen von Gegenständen im Torbereich ist verboten.
+
+Внимание!
+Пожарный отсек!
+Двери закрываются автоматически.
+Запрещается находится или оставлять вещи в зоне дверей.
